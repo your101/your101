@@ -8,7 +8,7 @@ pkg install python -y
 
 git clone https://github.com/your101/your101
 
-cd CPMElsedev
+cd your 
 
 git pull
 
