@@ -13,8 +13,8 @@ from pystyle import Colors, Colorate
 
 from cpmelsedev import CPMElsedev
 
-__CHANNEL_USERNAME__ = "elsedevchannel"
-__GROUP_USERNAME__   = "elsedevchat"
+__CHANNEL_USERNAME__ = "your"
+__GROUP_USERNAME__   = "wmr"
 
 def signal_handler(sig, frame):
     print("\n Bye Bye...")
